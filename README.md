@@ -10,7 +10,8 @@ It is highly useful for engineering and mathematics students dealing with Calcul
 - **Exact Calculations:** Leverages Wolfram Language's powerful symbolic computation engine to return precise fractional results rather than just decimal approximations.
 - **Clear Output:** Formats the inputted function, limits, and the final computed integral in a clean, easy-to-read console format.
 
-## How to Use
+## How to Use?
+
 1. Open the script in **Wolfram Mathematica**.
 2. Run the code.
 3. A pop-up dialog will appear asking for the function (e.g., `(x^3 + 2)/(5 x^2)`).
